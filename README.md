@@ -5,7 +5,6 @@
 
 [![GitHub Pages Deployment](https://img.shields.io/github/deployments/aishachunawala/aisha-chunawala-portfolio/github-pages?label=Live%20Site&logo=github&style=for-the-badge&color=2ea44f)](https://aishachunawala.github.io/aisha-chunawala-portfolio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Lighthouse Score](https://img.shields.io/badge/Lighthouse-100%2F100-brightgreen?style=for-the-badge&logo=googlechrome)](https://aishachunawala.github.io/aisha-chunawala-portfolio/)
 
 [🌐 **Explore Live Portfolio**](https://aishachunawala.github.io/aisha-chunawala-portfolio/) • [📂 **Explore Code Architecture**](#-repository-architecture) • [📬 **Connect**](#-connect--collaborate)
 
